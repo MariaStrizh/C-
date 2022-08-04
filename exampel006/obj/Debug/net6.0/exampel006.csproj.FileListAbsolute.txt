@@ -1,0 +1,16 @@
+C:\Users\moov\Desktop\Exampel\exampel006\bin\Debug\net6.0\exampel006.exe
+C:\Users\moov\Desktop\Exampel\exampel006\bin\Debug\net6.0\exampel006.deps.json
+C:\Users\moov\Desktop\Exampel\exampel006\bin\Debug\net6.0\exampel006.runtimeconfig.json
+C:\Users\moov\Desktop\Exampel\exampel006\bin\Debug\net6.0\exampel006.dll
+C:\Users\moov\Desktop\Exampel\exampel006\bin\Debug\net6.0\ref\exampel006.dll
+C:\Users\moov\Desktop\Exampel\exampel006\bin\Debug\net6.0\exampel006.pdb
+C:\Users\moov\Desktop\Exampel\exampel006\obj\Debug\net6.0\exampel006.GlobalUsings.g.cs
+C:\Users\moov\Desktop\Exampel\exampel006\obj\Debug\net6.0\exampel006.csproj.AssemblyReference.cache
+C:\Users\moov\Desktop\Exampel\exampel006\obj\Debug\net6.0\exampel006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moov\Desktop\Exampel\exampel006\obj\Debug\net6.0\exampel006.AssemblyInfoInputs.cache
+C:\Users\moov\Desktop\Exampel\exampel006\obj\Debug\net6.0\exampel006.AssemblyInfo.cs
+C:\Users\moov\Desktop\Exampel\exampel006\obj\Debug\net6.0\exampel006.csproj.CoreCompileInputs.cache
+C:\Users\moov\Desktop\Exampel\exampel006\obj\Debug\net6.0\exampel006.dll
+C:\Users\moov\Desktop\Exampel\exampel006\obj\Debug\net6.0\ref\exampel006.dll
+C:\Users\moov\Desktop\Exampel\exampel006\obj\Debug\net6.0\exampel006.pdb
+C:\Users\moov\Desktop\Exampel\exampel006\obj\Debug\net6.0\exampel006.genruntimeconfig.cache
